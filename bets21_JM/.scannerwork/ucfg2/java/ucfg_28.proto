@@ -1,0 +1,58 @@
+
+,domain.Question#toString()Ljava/lang/String;@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaú ú("1*∫	
+1@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù(Ö
+Ç
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù(
+%0java.lang.Integer"__id**
+domain.Question"
+quesIdâ
+Ü
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;ç
+ä
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù ù('
+%2java.lang.String"__id*(*&
+domain.Question"
+quesDescriptionõ
+ò
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù('
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.Stringà
+Ö
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù(-
+%4java.lang.String"__concat*
+
+%3java.lang.String*
+;©
+¶
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù0 ù(N
+%5java.lang.String"-java.lang.Float#toString(F)Ljava/lang/String;*"
+java.lang.Float*
+""õ
+ò
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù	 ù(N
+%6java.lang.String"__concat*
+
+%4java.lang.String*
+
+%5java.lang.String"\
+@
+4F:/Bets/Bets21_JM/src/main/java/domain/Question.javaù ù(O
+
+%6java.lang.StringB
+domain.Question

@@ -1,0 +1,92 @@
+
+'domain.User#equals(Ljava/lang/Object;)Z:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaL L("startingBlock*…
+2:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaU
+ U("D
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaU U(
+""*¼
+3:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaS S(u
+s
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaS S(
+otherdomain.User"__id*
+
+objjava.lang.Objecty
+w
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaT T(
+%2java.lang.String"__id**
+domain.User"
+usName€
+~
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaT T(
+%3java.lang.String"__id*"* 
+
+otherdomain.User"
+usName*
+2
+1*Ì
+startingBlock:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaL L("„
+
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaK K(
+
+%4"
+__annotate*
+java.lang.Override*
+
+objjava.lang.Objectm
+k
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaL L(!
+objjava.lang.Object"__annotation*
+
+%4*	
+5
+6
+8*…
+4:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaR
+ R("D
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaR R(
+""*™
+5:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaQ Q(¡
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaQ Q(
+%0java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+domain.User2
+getClass()«¨
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaQ Q("
+%1java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*
+
+objjava.lang.Object2
+getClass()*
+3
+4*…
+6:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaP
+ P("D
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaP P(
+""*…
+8:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaN
+ N("D
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaN N(
+""*…
+1:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaV	 V("D
+:
+0F:/Bets/Bets21_JM/src/main/java/domain/User.javaV V(
+"":
+objjava.lang.ObjectB
+domain.User

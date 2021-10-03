@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javaf f("1*ª
+1;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag	 g(z
+x
+;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag	 g(
+%0java.lang.Integer"__id**
+domain.Event"
+evIdÑ
+Å
+;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag	 g(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+;É
+Ä
+;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag g(#
+%2java.lang.String"__id*#*!
+domain.Event"
+evDescriptionñ
+ì
+;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag	 g(#
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"W
+;
+1F:/Bets/Bets21_JM/src/main/java/domain/Event.javag g($
+
+%3java.lang.StringB
+domain.Event

@@ -1,0 +1,7 @@
+organization=tserenlkham
+projectKey=ProyectoBetsVerif
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23441
+dashboardUrl=https://sonarcloud.io/dashboard?id=ProyectoBetsVerif
+ceTaskId=AXwUbXIZ0qg0pGiAtxVL
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXwUbXIZ0qg0pGiAtxVL
